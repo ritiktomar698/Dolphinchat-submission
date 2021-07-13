@@ -12,6 +12,8 @@
 8. Connect the chatbot to any one of these channels: a) WhatsApp b) Facebook c) Web 
 9. There should be no grammatical errors in the utterances. 
 10. All the utterances should be mentioned in the domain.yml file. 
+## kindly create a models folder and add the model by downloading from here.
+https://drive.google.com/file/d/11odyTLmLern4D4Q3YJtnLHsfGtfUWmqv/view?usp=sharing
 
 ## Whatapp Chat Implementation
 #
